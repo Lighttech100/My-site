@@ -1,4 +1,4 @@
-<?
+<?php
 
 $ip = getenv("REMOTE_ADDR");
 $message .= "Name: ".$_POST['name']."\n";
